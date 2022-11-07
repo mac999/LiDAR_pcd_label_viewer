@@ -6,7 +6,7 @@ p.s. there is good tool such as cloudcompare but it's difficult to load and visu
 1. labeling point cloud dataset
 <img src="https://github.com/mac999/pcd_label_viewer/blob/main/img/img2.png" alt="screen" width="300">
 <img src="https://github.com/mac999/pcd_label_viewer/blob/main/img/img3.png" alt="screen" width="500">
-2. view point cloud with label 
+ 2. view point cloud with label 
 <img src="https://github.com/mac999/pcd_label_viewer/blob/main/img/img1.png" alt="screen" width="500">
 
 # Install
