@@ -1,5 +1,3 @@
-# examples/Python/Basic/working_with_numpy.py
-
 import copy
 import numpy as np
 import open3d as o3d
@@ -32,8 +30,6 @@ if __name__ == "__main__":
     # pcd.points = pcd_origin
     pcd.points = o3d.utility.Vector3dVector(pcd_origin[:,0:3]) # XYZ points
     pcd.colors = o3d.utility.Vector3dVector(cmap[label])  #open3d requires colors (RGB) to be in range[0,1]
-
-    # pcd = o3d.io.read_point_cloud("./test/PUNKTSKY_1km_6181_724.txt")
 
     o3d.visualization.draw_geometries([pcd])
     print('end')
