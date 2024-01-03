@@ -1,5 +1,5 @@
 # Description
-pcd_label_viewer. 3D point cloud label dataset viewer
+LiDAR PCD label viewer. 3D point cloud label dataset viewer
 <br/>
 p.s. there is good tool such as cloudcompare but it's difficult to load and visualize labeling dataset, so I added some functions by using Open3D library.
 <br/>
